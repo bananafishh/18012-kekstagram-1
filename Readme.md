@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Зули Дышекова](https://up.htmlacademy.ru/javascript/15/user/18012).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
